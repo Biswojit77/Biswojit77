@@ -41,7 +41,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="mail to:biswojitbejbhola@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avsingh@umass.edu-blue?style=flat-square&logo=gmail"></a>
+<a href="mail to:biswojitbejbhola@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-biswojitbejbhola@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [Biswojit77](https://github.com/Biswojit77)
